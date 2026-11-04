@@ -32,7 +32,7 @@ Missing at the source; archived from these snapshots:
 
 ## Excluded
 
-Matched the sensitive-file deny-list and were not copied. Links still point to the original location:
+Matched the sensitive-file deny-list and were not copied; links to them were removed from the pages:
 
 - http://www.princeton.edu/~alaink/Orf467F18/enrolled-studentsOrf467F18.xls
 
